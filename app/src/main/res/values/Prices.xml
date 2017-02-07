@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hotels -->
+    <string name="hotel_price_one">€ 69</string>
+    <string name="hotel_price_two">€ 60</string>
+    <string name="hotel_price_three">€ 45</string>
+    <string name="hotel_price_four">€ 139</string>
+    <string name="hotel_price_five">€ 99</string>
+    <string name="hotel_price_six">€ 72</string>
+    <string name="hotel_price_seven">€ 129</string>
+    <string name="hotel_price_eight">€ 95</string>
+    <string name="hotel_price_nine">€ 99</string>
+    <string name="hotel_price_ten">€ 89</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_price_one">€ 40 - € 70</string>
+    <string name="restaurant_price_two">€ 12 - € 37</string>
+    <string name="restaurant_price_three">€ 11 - € 38</string>
+    <string name="restaurant_price_four">€ 25 - € 40</string>
+    <string name="restaurant_price_five">€ 7 - € 8</string>
+    <string name="restaurant_price_six">€ 5 - € 12</string>
+    <string name="restaurant_price_seven">€ 9 - € 25</string>
+    <string name="restaurant_price_eight">€ 6 - € 18</string>
+</resources>

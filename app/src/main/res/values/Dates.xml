@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Events -->
+    <string name="event_date_one">On the 11th of February till the 1th of March 2017 (All day)</string>
+    <string name="event_date_two">On the 7th of February till the 19th of February 2017 (All day)</string>
+    <string name="event_date_three">On the 10th of February till the 26th of February 2017 (All day)</string>
+    <string name="event_date_four">Only on the 13th of February 2017 (13:30)</string>
+    <string name="event_date_five">Only on the 12th of February 2017 (All day)</string>
+</resources>

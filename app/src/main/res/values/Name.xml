@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hotels -->
+    <string name="hotel_name_one">Beau Rivage</string>
+    <string name="hotel_name_two">Albert 1er</string>
+    <string name="hotel_name_three">Hotel De La Mer</string>
+    <string name="hotel_name_four">Le Meridien Nice</string>
+    <string name="hotel_name_five">NH Nice</string>
+    <string name="hotel_name_six">Esatitude Hotel</string>
+    <string name="hotel_name_seven">Radisson Blu Hotel Nice</string>
+    <string name="hotel_name_eight">Hotel Aston La Scala</string>
+    <string name="hotel_name_nine">B4 Plaza Nice</string>
+    <string name="hotel_name_ten">Park Inn by Radisson Nice</string>
+
+    <!-- Parks -->
+    <string name="park_one">Jardin des Arènes de Cimiez</string>
+    <string name="park_two">Parc Carol de Roumanie</string>
+    <string name="park_three">Jardin du Monastère de Cimiez</string>
+    <string name="park_four">Parc Phoenix</string>
+    <string name="park_five">Parc Castel des Deux Rois</string>
+    <string name="park_six">Parc Forestier du Mont-Boron</string>
+    <string name="park_seven">Parc Naturel Dèpartemental Estienne</string>
+    <string name="park_eight">Parc de Valrose</string>
+    <string name="park_nine">Parc Vigier</string>
+    <string name="park_ten">Sentier du Canal de Gairaut</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_one">Jan</string>
+    <string name="restaurant_two">Les Sens</string>
+    <string name="restaurant_three">Le Millésime</string>
+    <string name="restaurant_four">Le Séjour</string>
+    <string name="restaurant_five">Illia Pasta</string>
+    <string name="restaurant_six">Maizon</string>
+    <string name="restaurant_seven">L\'Antica</string>
+    <string name="restaurant_eight">L\'Octopussy</string>
+
+    <!-- Events -->
+    <string name="event_one">Grande Fete du Citron, Menton</string>
+    <string name="event_two">Biennale Internationale des Arts du Cirque</string>
+    <string name="event_three">oNice Carnival</string>
+    <string name="event_four">Naval Flower Battles</string>
+    <string name="event_five">Nice Carnaval Run</string>
+</resources>

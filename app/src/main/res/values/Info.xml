@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Parks -->
+    <string name="park_info_one">Across from the Monastery of Cimiez, this garden is a vast olive
+        grove.</string>
+    <string name="park_info_two">A park for young and old alike: wooden playing structures and
+        ballgames.</string>
+    <string name="park_info_three">Peace and harmony reign here, near the Amphitheatre (Arènes).</string>
+    <string name="park_info_four">Across from the sea, this 7-hectare park at the western entrance
+        to Nice.</string>
+    <string name="park_info_five">Located on the slopes of the Mont-Boron, this park is a
+        children’s paradise.</string>
+    <string name="park_info_six">11km of marked trails Botanical garden in the heart of a
+        57 ha Mediterranean forest.</string>
+    <string name="park_info_seven">It has been laid out so that the public can enjoy pretty
+        views of the town and sea.</string>
+    <string name="park_info_eight">A former aristocratic estate, Parc Valrose still boasts a
+        splendid Château.</string>
+    <string name="park_info_nine">Located near the Port, this 10,000m² Mediterranean garden
+        open on the sea.</string>
+    <string name="park_info_ten">This trail, with its little bridges and offers splendid
+        panoramas over the city.</string>
+</resources>
